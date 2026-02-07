@@ -26,14 +26,8 @@ Every review runs through six lenses:
 
 ## Installation
 
-Copy or symlink this directory into your Claude Code skills path:
-
 ```bash
-# Clone
-git clone https://github.com/not-for-me/ux-detail-review.git
-
-# Symlink into your Claude Code skills directory
-ln -s "$(pwd)/ux-detail-review" ~/.claude/skills/ux-detail-review
+npx skills add simply-strong-lab/ux-detail-review
 ```
 
 ## Usage
